@@ -1,0 +1,9 @@
+# 环境配置（含 API Key）
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# 输出文件
+output/
